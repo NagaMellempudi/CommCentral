@@ -13,7 +13,7 @@ namespace CommCentral.Services.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Light"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Light", "Super Hot"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
