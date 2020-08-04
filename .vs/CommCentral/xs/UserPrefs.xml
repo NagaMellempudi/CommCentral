@@ -1,11 +1,22 @@
 ﻿<Properties StartupConfiguration="{050FACBF-D5BA-4A10-B95F-BD85C083F5D5}|Default">
-  <MonoDevelop.Ide.ItemProperties.CommCentral.Services FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CommCentral.Services PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommCentral.Services/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="CommCentral.Services/appsettings.json" Line="1" Column="1" />
+      <File FileName="CommCentral.Services/Controllers/WeatherForecastController.cs" Line="16" Column="111" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CommCentral" expanded="True" selected="True">
-            <Node name="CommCentral.Services" expanded="True" />
+          <Node name="CommCentral" expanded="True">
+            <Node name="CommCentral.Services" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
