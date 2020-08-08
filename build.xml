@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Build and Deploy Solution" default="buildDeployTest" basedir="." >
+	<target name="build" >		
+		<description>Build project.</description>
+    <echo message="Welocome to first build"></echo>
+	</target>
+</project>
